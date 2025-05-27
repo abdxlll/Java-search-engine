@@ -1,4 +1,4 @@
-# Java Search Engine with TF-IDF, PageRank, and GUI
+# SmartSearch – Custom Java Search Engine
 
 A simple yet functional search engine that crawls web pages, calculates TF-IDF scores, ranks documents using cosine similarity, and offers optional PageRank boosting. Includes a clean JavaFX GUI for easy searching and result display.
 
